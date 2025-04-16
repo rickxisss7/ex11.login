@@ -47,6 +47,10 @@ body{
 background-image: url(../img/phone4.jpg);
 background-size: cover;
 background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+
 }
 
 .botao{
